@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=baxa073&theme=darkhub&margin-w=15&margin-h=15" alt="Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=bahodirbuxorov&theme=darkhub&margin-w=15&margin-h=15" alt="Trophies" />
 </p>
 
 ---
@@ -84,13 +84,13 @@
 
 <h2 align="center">📊 GitHub Stats</h2>
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=baxa073&theme=dark" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bahodirbuxorov&theme=dark" alt="GitHub Streak" />
 </p>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=baxa073&show_icons=true&locale=en&theme=dark" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=bahodirbuxorov&show_icons=true&locale=en&theme=dark" alt="GitHub Stats" />
 </p>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=baxa073&show_icons=true&locale=en&layout=compact&theme=dark" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=bahodirbuxorov&show_icons=true&locale=en&layout=compact&theme=dark" alt="Top Languages" />
 </p>
 
 # 🌟 Featured Projects
