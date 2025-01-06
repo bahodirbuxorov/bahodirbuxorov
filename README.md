@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Flutter Developer from Uzbekistan</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=baxa073&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=bahodirbuxorov&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
 
 <p align="center">
@@ -99,15 +99,15 @@
 - 🖥️ A responsive website built with **Bootstrap** for **Hamkor Lizing**.
 - 🌐 [Visit Website](https://hamkor-lizing.uz/)
 
-## [Crypto Bozor](https://github.com/Baxa073/crypto-bozor)
+## [Crypto Bozor](https://github.com/bahodirbuxorov/crypto-bozor)
 - 📱 A cryptocurrency market application to track prices and trends.
 - 🔧 Tech Stack: **Dart**, **Flutter**, **Firebase**, **TonAPI**, and **BinanceAPI**.
-- 🌐 [Source Code](https://github.com/Baxa073/crypto-bozor)
+- 🌐 [Source Code](https://github.com/bahodirbuxorov/crypto-bozor)
 
-## [E-Commerce App](https://github.com/Baxa073/e-commerce)
+## [E-Commerce App](https://github.com/bahodirbuxorov/e-commerce)
 - 🛒 A full-featured e-commerce app built using **Flutter**.
 - 🔧 Tech Stack: **Dart**, **Flutter**.
-- 🌐 [Source Code](https://github.com/Baxa073/e-commerce)
+- 🌐 [Source Code](https://github.com/bahodirbuxorov/e-commerce)
 
 ---
 
