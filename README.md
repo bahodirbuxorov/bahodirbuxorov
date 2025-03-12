@@ -15,7 +15,7 @@
 
 - 🔭 I’m currently working on **Hamkor Lizing**
 
-- 🌱 I’m currently learning **Flutter, Bloc**
+- 🌱 I’m currently learning **SysAdmin**
 
 - ⚡ Fun fact: I love solving challenging problems and creating innovative apps!
 
