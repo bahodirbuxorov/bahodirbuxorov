@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Bahodir</h1>
-<h3 align="center">A passionate Flutter Developer from Uzbekistan</h3>
+<h3 align="center">🚀 CEO | Founder | Team Lead at <a href="https://www.saivo.uz" target="_blank">SAIVO</a></h3>
+<h4 align="center">Building smart tech with real impact</h4>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=bahodirbuxorov&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
@@ -13,13 +14,11 @@
 
 <h2 align="center">🧑‍💻 About Me</h2>
 
-- 🔭 I’m currently working on **Hamkor Lizing**
-
-- 🌱 I’m currently learning **SysAdmin**
-
-- ⚡ Fun fact: I love solving challenging problems and creating innovative apps!
-
-- 📫 How to reach me: **buxorovbahodir11@gmail.com**
+- 👨‍💼 I'm the CEO, Founder, and Team Lead at [SAIVO](https://www.saivo.uz)
+- 🔭 Currently managing large-scale software and automation projects
+- 🌱 Learning more about **SysAdmin** and **DevOps**
+- ⚡ Fun fact: I love solving tough problems and building real-world tech solutions
+- 📫 Reach me at: **buxorovbahodir11@gmail.com**
 
 ---
 
@@ -38,8 +37,6 @@
     <img src="https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
 </p>
-
-
 
 ---
 
@@ -93,7 +90,9 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=bahodirbuxorov&show_icons=true&locale=en&layout=compact&theme=dark" alt="Top Languages" />
 </p>
 
-# 🌟 Featured Projects
+---
+
+<h2 align="center">🌟 Featured Projects</h2>
 
 ## [Hamkor Lizing](https://hamkor-lizing.uz/)
 - 🖥️ A responsive website built with **Bootstrap** for **Hamkor Lizing**.
@@ -108,7 +107,3 @@
 - 🛒 A full-featured e-commerce app built using **Flutter**.
 - 🔧 Tech Stack: **Dart**, **Flutter**.
 - 🌐 [Source Code](https://github.com/bahodirbuxorov/e-commerce)
-
----
-
-</p>
