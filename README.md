@@ -91,19 +91,3 @@
 </p>
 
 ---
-
-<h2 align="center">🌟 Featured Projects</h2>
-
-## [Hamkor Lizing](https://hamkor-lizing.uz/)
-- 🖥️ A responsive website built with **Bootstrap** for **Hamkor Lizing**.
-- 🌐 [Visit Website](https://hamkor-lizing.uz/)
-
-## [Crypto Bozor](https://github.com/bahodirbuxorov/crypto-bozor)
-- 📱 A cryptocurrency market application to track prices and trends.
-- 🔧 Tech Stack: **Dart**, **Flutter**, **Firebase**, **TonAPI**, and **BinanceAPI**.
-- 🌐 [Source Code](https://github.com/bahodirbuxorov/crypto-bozor)
-
-## [E-Commerce App](https://github.com/bahodirbuxorov/e-commerce)
-- 🛒 A full-featured e-commerce app built using **Flutter**.
-- 🔧 Tech Stack: **Dart**, **Flutter**.
-- 🌐 [Source Code](https://github.com/bahodirbuxorov/e-commerce)
