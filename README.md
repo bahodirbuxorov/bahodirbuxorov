@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Bahodir</h1>
-<h3 align="center">🚀 CEO | Founder | Team Lead at <a href="https://www.saivo.uz" target="_blank">SAIVO</a></h3>
+<h3 align="center">🚀</h3>
 <h4 align="center">Building smart tech with real impact</h4>
 
 <p align="center">
