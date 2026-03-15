@@ -12,15 +12,8 @@
 
 ---
 
-<h2 align="center">🧑‍💻 About Me</h2>
+<h2 align="center">🧑‍💻</h2>
 
-- 👨‍💼 I'm the CEO, Founder, and Team Lead at [SAIVO](https://www.saivo.uz)
-- 🔭 Currently managing large-scale software and automation projects
-- 🌱 Learning more about **SysAdmin** and **DevOps**
-- ⚡ Fun fact: I love solving tough problems and building real-world tech solutions
-- 📫 Reach me at: **buxorovbahodir11@gmail.com**
-
----
 
 <h2 align="center">🌐 Connect with Me</h2>
 <p align="center">
